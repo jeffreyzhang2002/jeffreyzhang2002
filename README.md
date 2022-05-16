@@ -6,6 +6,7 @@ I'm [Jeffrey](https://jeffreyzhang2002.github.io/jeffreyzhang2002/). I'm current
   - 🪴 Learning about different web technologies
   - 📅 Working on Rust Project
   - ✉️ Feel free to contact me anytime
+  - 🌐 Website [Here](https://jeffreyzhang2002.github.io/jeffreyzhang2002/)
 
 # Skills
 ## 🖥️ Programming Languages
