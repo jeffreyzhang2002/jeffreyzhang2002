@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# 👋Hey There!
+I'm [Jeffrey](https://jeffreyzhang2002.github.io/jeffreyzhang2002/). I'm currenty a computer science student studying at the Georgia institute of Technology. Im interested in robotics, computer systems and artifical intelligence.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About
+  - 🔭 Currently exploring Rust and Low Level Programming
+  - 🪴 Learning about different web technologies
+  - 📅 Working on Rust Project
+  - ✉️ Feel free to contact me anytime
 
-## Available Scripts
+# Skills
+## 🖥️ Programming Languages
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQLite&logoColor=003B57)
 
-In the project directory, you can run:
 
-### `npm start`
+## 📖 Frameworks
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![P5](https://img.shields.io/badge/P5-black?style=for-the-badge&logo=p5.js&logoColor=ED225D)
+![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron&logoColor=47848F)
+![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongoDB&logoColor=47A248)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚒️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=F05032)
+![Github](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Github&logoColor=white)
+![Node](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=Node.js&logoColor=339933)
+![Jetbrains IDE](https://img.shields.io/badge/Jetbrains%20IDE-black?style=for-the-badge&logo=JetBrains&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=Visual%20Studio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📚 Tech Stack
 
-### `npm run build`
+```(MEAN) MongoDB Express React Node```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyzhang2002&show_icons=true&theme=dark)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffreyzhang2002.387037302)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 📧 Contact
+Feel Free to contact me at any time!
 
-### `npm run eject`
+- Personal Email: [Jeffreyzhang2002@gmail.com](mailto:jeffreyzhang2002@gmail.com)
+- School Email: [Jeffreyzhang@gatech.edu](mailto:jeffreyzhang2002@gatech.edu)
+- Linkedin: [Jeffreyzhang2002](https://www.linkedin.com/in/jeffreyzhang2002/)
+- Website: [Here](https://jeffreyzhang2002.github.io/jeffreyzhang2002/)
+- Github: [Jeffreyzhang2002](https://github.com/jeffreyzhang2002)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
